@@ -8,4 +8,4 @@
 </b></i></p>
 <br><br>
   
-## <a href="https://lucasjsilva15.github.io/Wide-coverage/" target="_blank">:earth_americas:LINK DO PROJETO</a>
+## <a href="https://lucasjsilva15.github.io/Wide-coverage/" target="_blank" >:earth_americas:LINK DO PROJETO</a>
