@@ -7,4 +7,5 @@
 :iphone: Nesse projeto foi feito a responsividade em 900px - Toda parte responsiva foi feita em um aparelho com a resolução de: 390 x 844
 </b></i></p>
 <br><br>
-## <p>LINK DO PROJETO</p>
+  
+## <a href="https://lucasjsilva15.github.io/Wide-coverage/" target="_blank">:earth_americas:LINK DO PROJETO</a>
