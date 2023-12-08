@@ -25,7 +25,7 @@ header{
     letter-spacing: 0.875px;
     margin-right: 32px;
     cursor: pointer;
-    transition: 0.5s;
+    transition: 0.3s;
 }
 
 .link-header:hover{
@@ -41,9 +41,9 @@ header{
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    color: #000000;
+    color: aliceblue;
     cursor: pointer;
-    transition: 0.5s;
+    transition: 0.3s;
     line-height: normal;
     letter-spacing: 1px;
 }
